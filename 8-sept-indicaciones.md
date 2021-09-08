@@ -10,7 +10,7 @@ Esto es una versión muy reducida del tutorial que debéis seguir durante la pr�
 # Creación del repositorio que contendrá vuestra página
 
 - Ve a tus repositorios ("Your repositories")
-- Crea un nuevo repositorio clicando en "New" y llámalo de la siguiente manera, substituyendo "username" por el tuyo: username.github.io ![IMG1](/img/img1.png)
+- Crea un nuevo repositorio clicando en "New" y llámalo de la siguiente manera, substituyendo "username" por el tuyo: 'username.github.io' ![IMG1](/img/img1.png)
 - Añade una descripción, por ejemplo, "Página personal"
 - Añade un "Readme file" para posteriormente añadir instrucciones.
 - Clica en "Create repository"
