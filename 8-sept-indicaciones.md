@@ -61,3 +61,5 @@ En vuestro Repositorio que habéis creado, id a "Settings" > "Manage Access" > "
 ![Img10](/img/img10.png)
 
 - Ahora dirígite otra vez a https://username.github.com/, refresca la página y mirá qué belleza. :) A veces tarda unos minutos en refrescar la página, si no ves los cambios en seguido, no te preocupes, ¡todo llega! 
+
+![Img11](/img/img11.png)
