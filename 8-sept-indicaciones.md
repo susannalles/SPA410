@@ -6,6 +6,7 @@ Esto es una versión muy reducida del tutorial que debéis seguir durante la pr�
 
 - Ve a to https://github.com/
 - Crea un nombre de usuario. CAVEAT: el nombre de usuario que escojas debe ser claro, mejor si es tu nombre porqué después tu página llevará ese nombre.
+- Puedes serguir las instrucciones del tutorial Amanda Visconti, "Creación de sitios estáticos con Jekyll y GitHub Pages", traducido por HD CAICYT Lab team, Gimena del Rio Riande, Nidia Hernández, Romina De León, Gabriel Calarco, y Raffaele Viglianti, The Programming Historian en español 5 (2021), https://doi.org/10.46430/phes0050 Sección: "[Cuenta de usuario de GitHub](https://programminghistorian.org/es/lecciones/sitios-estaticos-con-jekyll-y-github-pages#cuenta-de-usuario-de-github-)"
 
 # Creación del repositorio que contendrá vuestra página
 
