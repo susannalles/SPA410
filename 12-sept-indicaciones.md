@@ -98,18 +98,6 @@ Una vez hecho esto, vuelve a intentar el comando anterior:
 
 `gem install jekyll`
 
-### Super resumen de los comandos:
-
-`xcode-select -v`
-
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-
-`brew install ruby`
-
-`brew install node`
-
-`gem install jekyll`
-
 # Configuración de Jekyll
 
 - Localiza tu carpeta en el Finder, en principio deberías encontrarla en Documents > GitHub > username.github.io Ahí es donde la dejamos al configurar GitHub Desktop.
@@ -145,4 +133,43 @@ ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]
  # Ejecutar un sitio web localmente 
 
  - Ejecuta: `bundle exec jekyll serve --watch` 
+ - `bundle exec jekyll serve --watch`
+ - Para parar el servidor: control-c y para activarlo: `bundle exec jekyll serve --watch`
+ - Para ver tu sitio en el servidor local: http://127.0.0.1:4000/ 
+ 
+
+### Super resumen de los comandos:
+
+`xcode-select -v`
+
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+`echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> /Users/susanna/.bash_profile`
+
+`export LDFLAGS="-L/usr/local/opt/ruby/lib"` (optativo)
+
+`export CPPFLAGS="-I/usr/local/opt/ruby/include"` (optativo)
+
+`brew install ruby`
+
+`brew install node`
+
+`gem install jekyll`
+
+`sudo chmod -R 777 /Library/Ruby/Gems/2.6.0`
+
+`gem install jekyll`
+
+`ls`
+
+`cd Documents/GitHub/`
+
+`gem install jekyll bundler`
+
+`jekyll new Test`
+
+`cd Test`
+
+`bundle exec jekyll serve --watch`
+
 
