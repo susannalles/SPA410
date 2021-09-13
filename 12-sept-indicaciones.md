@@ -48,7 +48,7 @@ La podéis personalizar yendo a "Preferences".
 Ejecuta paso a paso lo siguientes comandos en tu terminal (debes esperar que terminen para ejecutar el siguiente):
 
 ## 1. XCODE
-'xcode-select --install'
+`xcode-select --install`
 
 Una vez haya terminado, haz la prueba...
 
