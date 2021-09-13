@@ -174,9 +174,9 @@ ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]
 
 # "Chuletas"
 
-- Check version of xcode: `xcode-select -v`
-- Versión ruby: `ruby -v`
-- Versión node: `node -v`
-- Versión Jekyll: `jekyll -v`
+- Check version of xcode: `xcode-select -v` (debería ser: `xcode-select version 2384.`)
+- Versión ruby: `ruby -v` (derbería ser: `ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.x86_64-darwin20]`)
+- Versión node: `node -v` (debería ser: `v16.9.1`)
+- Versión Jekyll: `jekyll -v` (debería ser: `jekyll 4.2.0`)
 
 
