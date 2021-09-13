@@ -140,7 +140,7 @@ ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]
 
 ### Super resumen de los comandos:
 
-`xcode-select -v`
+`xcode-select --install`
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
@@ -171,5 +171,12 @@ ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]
 `cd Test`
 
 `bundle exec jekyll serve --watch`
+
+# "Chuletas"
+
+- Check version of xcode: `xcode-select -v`
+- Versión ruby: `ruby -v`
+- Versión node: `node -v`
+- Versión Jekyll: `jekyll -v`
 
 
