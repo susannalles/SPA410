@@ -52,7 +52,7 @@ Ejecuta paso a paso lo siguientes comandos en tu terminal (debes esperar que ter
 
 Una vez haya terminado, haz la prueba...
 
-'xcode-select -v'
+`xcode-select -v`
 
 Y debería aparecerte:
 
@@ -60,7 +60,7 @@ Y debería aparecerte:
 
 ## Homebrew
 
-'/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 Te pedirá tu contraseña (recuerda que no aparece aunque ty la escribas, así que no la repitas) y también que hagas click en Enter.
 
@@ -70,7 +70,7 @@ Te pedirá tu contraseña (recuerda que no aparece aunque ty la escribas, así q
 
  ## Ruby y Ruby Gems
 
- En el tutorial, indica que debes escribir 'brew install ruby' pero puede que tu computadora todavía no esté configurada y os dé este error:
+ En el tutorial, indica que debes escribir `brew install ruby` pero puede que tu computadora todavía no esté configurada y os dé este error:
 
 ![IMG22](/img/img22.png)
 
@@ -80,59 +80,69 @@ El secreto ahora está en configurar el "path" de vuestro terminal con las indic
 
 Estas son las líneas que deberes ejecutar:
 
-'echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/susannalles/.zprofile'
-'eval "$(/opt/homebrew/bin/brew shellenv)"'
+`echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/susannalles/.zprofile`
+
+`eval "$(/opt/homebrew/bin/brew shellenv)"`
 
 Una vez hecho esto, vuelve a intentar el comando anterior:
 
-'brew install ruby'
+`brew install ruby`
 
 ![IMG24](/img/img24.png)
 
 ## NodeJS
 
-'brew install node'
+`brew install node`
 
 ## Jekyll
 
-'gem install jekyll'
+`gem install jekyll`
 
 ### Super resumen de los comandos:
-'xcode-select -v'
-'/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
-'brew install ruby'
-'brew install node'
-'gem install jekyll'
+
+`xcode-select -v`
+
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+`brew install ruby`
+
+`brew install node`
+
+`gem install jekyll`
 
 # Configuración de Jekyll
 
 - Localiza tu carpeta en el Finder, en principio deberías encontrarla en Documents > GitHub > username.github.io Ahí es donde la dejamos al configurar GitHub Desktop.
-- En la línea de comandos dirígete a esa carpeta: 'cd /Users/tu_nombre_de_usuario_en_tu_computadora/Documents/GitHub/', por ejemplo en mi caso sería 'cd /Users/susannalles/Documents/GitHub/'.
-- Ejecuta: 'gem install jekyll bundler'
-- Si os aparece un error como este, simplemente hacedlo como orden 'sudo gem install jekyll bundler'. Os pedira vuestra password (recuerda que no aparece) y clicad "Enter":
+- En la línea de comandos dirígete a esa carpeta: `cd /Users/tu_nombre_de_usuario_en_tu_computadora/Documents/GitHub/`, por ejemplo en mi caso sería `cd /Users/susannalles/Documents/GitHub/`.
+- Ejecuta: `gem install jekyll bundler`
+- Si os aparece un error como este, simplemente hacedlo como orden `sudo gem install jekyll bundler`. Os pedira vuestra password (recuerda que no aparece) y clicad "Enter":
 
 ![IMG25](/img/img25.png)
 
 - Al acabar os saldrá un largo mensaje que acaba así:
 
-'Done installing documentation for bundler after 1 seconds
-27 gems installed'
+```
+Done installing documentation for bundler after 1 seconds
+27 gems installed
+```
 
-- Ejecuta: 'jekyll new JekyllDemo'
+- Ejecuta: `jekyll new JekyllDemo`
 
 NOTA: aquí a mi me dio problemas de permisos. El mensaje empezaba así:
 
-'jekyll new JekyllDemo
+```
+jekyll new JekyllDemo
 /Library/Ruby/Gems/2.6.0/gems/ffi-1.15.4/lib/ffi/library.rb:275: [BUG] Bus Error at 0x0000000104cd8000
-ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]'
+ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]
+```
 
  Después de buscar mucho en Google, lo arreglé dando permisos a las carpetas donde me indicaba error. En definitiva, deben darse permisos a las carpetas y sus descendientes con esta línea de comando:
 
- 'sudo chmod -R 777 *'
+ `sudo chmod -R 777 *`
 
- - Ejecuta: 'cd JekyllDemo' para desplazarte dentro de la carpeta de trabajo del nuevo sitio. 
+ - Ejecuta: `cd JekyllDemo` para desplazarte dentro de la carpeta de trabajo del nuevo sitio. 
 
  # Ejecutar un sitio web localmente 
 
- - Ejecuta: 'bundle exec jekyll serve --watch' 
- - 
+ - Ejecuta: `bundle exec jekyll serve --watch` 
+
