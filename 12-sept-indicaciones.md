@@ -144,7 +144,7 @@ ruby 2.6.3p62 (2019-04-16 revision 67580) [universal.arm64e-darwin20]
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-`echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> /Users/susanna/.bash_profile`
+`echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"'
 
 `export LDFLAGS="-L/usr/local/opt/ruby/lib"` (optativo)
 
