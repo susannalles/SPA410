@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<ead xmlns="http://ead3.archivists.org/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ead3.archivists.org/schema/ http://www.archivesportaleurope.net/Portal/profiles/ead3.xsd"
+    audience="external">
+    <!-- http://pares.mcu.es/ParesBusquedas20/catalogo/description/1599558 -->
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+        repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="ISADGv2">
+        <recordid>ES.47161.AGS/3.2.1.12.0//RGS,LEG,147801,144</recordid>
+        <otherrecordid localtype="identifier">ES-AGS-47161-1599558</otherrecordid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Pago en rentas de Sevilla a Alonso de Palencia, cronista y secretario
+                    real.</titleproper>
+                <author>Información descriptiva tomada del asiento núm. 62 de la obra: 02</author>
+            </titlestmt>
+        </filedesc>
+        <maintenancestatus value="derived">revised</maintenancestatus>
+        <maintenanceagency>
+            <agencycode>ES--AGS</agencycode>
+            <agencyname>AGS</agencyname>
+        </maintenanceagency>
+        <maintenancehistory>
+            <maintenanceevent>
+                <eventtype value="derived">created</eventtype>
+                <eventdatetime standarddatetime="2021-02-18T09:49:20"
+                    >2021-02-18T09:49:20</eventdatetime>
+                <agenttype value="machine">machine</agenttype>
+                <agent>Generado automaticamente por el Portal de Archivos Españoles (PARES) con los
+                    datos de sus registros de autoridad.</agent>
+            </maintenanceevent>
+        </maintenancehistory>
+    </control>
+    <archdesc level="item" relatedencoding="ISAD(G)v2" encodinganalog="3.1.4">
+        <did>
+            <unitid countrycode="ES" repositorycode="ES-AGS-47161" identifier="1599558.xml"
+                encodinganalog="3.1.1">ES.47161.AGS/3.2.1.12.0//RGS,LEG,147801,144</unitid>
+            <unittitle encodinganalog="3.1.2">Pago en rentas de Sevilla a Alonso de Palencia,
+                cronista y secretario real.</unittitle>
+            <unitdatestructured datechar="creation" era="ce" label="fecha creación"
+                encodinganalog="3.1.3">
+                <datesingle standarddate="1478-01-12">1478-01-12. Sevilla</datesingle>
+            </unitdatestructured>
+            <origination encodinganalog="3.2.1">
+                <corpname identifier="http://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/46677"
+                    relator="Productor" rules="NPA2"
+                    normal="Real Cancillería de los Reyes de Castilla. Registro del Sello de Corte">
+                    <part>Real Cancillería de los Reyes de Castilla. Registro del Sello de
+                        Corte</part>
+                </corpname>
+            </origination>
+            <physdescset coverage="whole" parallel="false">
+                <physdescstructured physdescstructuredtype="materialtype" coverage="part">
+                    <quantity>1 </quantity>
+                    <unittype>Documento(s) </unittype>
+                    <physfacet>Papel </physfacet>
+                    <dimensions> Folio </dimensions>
+                </physdescstructured>
+            </physdescset>
+            <physloc>RGS,LEG,147801,144</physloc>
+            <langmaterial encodinganalog="3.4.3">
+                <languageset>
+                    <language langcode="es">Español</language>
+                    <script scriptcode="Latn">Latino</script>
+                </languageset>
+            </langmaterial>
+            <repository>
+                <name>
+                    <part>Archivo General de Simancas</part>
+                </name>
+            </repository>
+        </did>
+        <scopecontent encodinganalog="summary">
+            <p>Provisión nombrando a D. Fernando Díaz de Bibadeneyra juez ejecutor para que sean
+                pagados a Alonso de Palencia, cronista y secretario real, los maravedís que en las
+                rentas de Sevilla le corresponden por privilegio.-Rey. </p>
+        </scopecontent>
+        <processinfo encodinganalog="3.7.1">
+            <p>Información descriptiva tomada del asiento núm. 62 de la obra: 02</p>
+            <p> La fecha de descripción es: <date>2004-02-17</date></p>
+        </processinfo>
+    </archdesc>
+</ead>
