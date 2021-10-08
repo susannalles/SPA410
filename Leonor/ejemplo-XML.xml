@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poema>
+
+    <autor>Francisco de Quevedo</autor>
+
+    <soneto identificador="Quevedo_01" rima="ABBA">
+        <estrofa tipo="cuarteto">
+            <verso>Es hielo abrasador, es fuego helado,</verso>
+            <verso>es herida que duele y no se siente,</verso>
+            <verso>es un soñado bien, un mal presente,</verso>
+            <verso>es un breve descanso muy cansado.</verso>
+        </estrofa>
+        <estrofa tipo="cuarteto" rima="ABBA">
+            <verso>Es un descuido que nos da cuidado,</verso>
+            <verso>un cobarde, con nombre de valiente,</verso>
+            <verso>un andar solitario entre la gente,</verso>
+            <verso>un amar solamente ser amado.</verso>
+        </estrofa>
+        <estrofa tipo="terceto" rima="CDC">
+            <verso>Es una libertad encarcelada,</verso>
+            <verso>que dura hasta el postrero parasismo,</verso>
+            <verso>enfermedad que crece si es curada.</verso>
+        </estrofa>
+        <estrofa tipo="terceto" rima="CDC">
+            <verso>Este es el niño Amor, este es su abismo.</verso>
+            <verso>¡Mirad cuál amistad tendrá con nada</verso>
+            <verso>el que en todo es contrario de sí mismo!</verso>
+        </estrofa>
+    </soneto>
+
+</poema>
