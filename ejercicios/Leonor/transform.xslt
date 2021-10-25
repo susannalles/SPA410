@@ -23,7 +23,7 @@
             <body>
                 <header class="site-header">
                     <div class="wrapper">
-                        <a class="site-title" rel="author" href="/">Digital Humanities @ UM - SPA 410</a>
+                        <a class="site-title" rel="author" href="/">CAMBIO DE NOMBRE</a>
                         <nav class="site-nav">
                             <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
                             <label for="nav-trigger">
@@ -98,7 +98,7 @@
                                     <li class="p-name">Susanna Alles-Torrent</li>
                                     <li>
                                         <a class="u-email" href="mailto:susanna_alles@miami.edu"
-                                            >susanna_alles@miami.edu</a>
+                                            >CAMBIO MAIL</a>
                                     </li>
                                 </ul>
                             </div>
