@@ -23,7 +23,7 @@
             <body>
                 <header class="site-header">
                     <div class="wrapper">
-                        <a class="site-title" rel="author" href="/">CAMBIO DE NOMBRE</a>
+                        <a class="site-title" rel="author" href="/">SUSANNA ALLÉS TORRENT</a>
                         <nav class="site-nav">
                             <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
                             <label for="nav-trigger">
