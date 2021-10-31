@@ -34,8 +34,8 @@ This course will be in person. Every day you will have one or two readings (apro
 - Oral Presentations:: Oral presentations must not exceed 8-10 minutes and need to stick to the items that you will be asked to analyzed.
 
 1. August 30, 2021: Presentation of a Digital Humanities project following the template.
-2. September 27: Presentation of a Digital Edition project following the template. 
-3. October 13: Imagine a digital edition for Leonor López de Córdoba’s Memoires. 
+2. September 27: Presentation of a Digital Edition project following the template.
+3. October 13: Imagine a digital edition for Leonor López de Córdoba’s Memoires.
 4. December 6: Digging and formulating a research question in a COVID-19 corpus.
 
 - Digital assignments are also indicated in the calendar and they normally are the final outcome of the previous exercises that you will be required to do.
@@ -104,4 +104,4 @@ You will be able to get extra credit by attending different activities at UM or 
 ## Honor Code
 
 For the Academic integrity and plagiarism I recommend you to check on the UM Honor Code: https://doso.studentaffairs.miami.edu/_assets/pdf/honor-council/the-undergraduate-honor- code.pdf Be serious about it, I will not accept any work that has been copied from the internet. If you use someone else’s work you must give full credit to the authors by citing them
-correctly. 
+correctly.
