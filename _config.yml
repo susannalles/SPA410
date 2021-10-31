@@ -1,9 +1,9 @@
-title: Digital Humanities @ UM - SPA 410
+title: SPA 410 Digital Literacies
 author:
   name: Susanna Alles-Torrent
   email: susanna_alles@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Digital Humanities @ UM es el repositorio del curso SPA410 
+  Repositorio del curso SPA410 Digital Literacy Through Cultural and Literary Topics 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: sallesto
-    github:  dh-miami
+    github:  susannalles
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
