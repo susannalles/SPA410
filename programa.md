@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programa
-permalink: /SPA410/programa
+permalink: /SPA410/programa/
 ---
 
 Programa del curso 
