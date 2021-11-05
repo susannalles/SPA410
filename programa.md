@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Programa
+title: "Programa del curso (Fall 2021)"
 ---
 
-## Programa del curso 
+#### Class 1. Monday, Aug. 23
 
-### Class 1. Monday, Aug. 23
+- Introduction and presentations
 
-Introduction and presentations
+#### Class 2. Wednesday, August 25 
 
-### Class 2. Wednesday, August 25 - Intro to Digital Humanities
+Introduction to Digital Humanities
+
 Read:
-• Dossier & Drucker 2014, p. 9
-• Posner (2013). “How did they make that?” • Guitiérrez 2016. “Cómo lo hicieron?
+* Dossier & Drucker 2014, p. 9
+* Posner (2013). “How did they make that?”
+* Guitiérrez 2016. “Cómo lo hicieron?
 Herramientas para las Humanidades Digitales” Writing Exercice:
 • “You and our Digital Life”
    
