@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ejercicio 0: Tu vida digital"
+title: "Presentación personal: Tu vida digital"
 ---
 
 Fecha de entrega: miércoles 25 de agosto de 2021 antes de las 11am\  
