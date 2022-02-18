@@ -15,8 +15,8 @@ title: "Programa - Fall 2021"
 Antes de clase:
 * Leer: Dossier & Drucker 2014, p. 9 "[Introduction to Digital Humanities](https://searchworks.stanford.edu/view/11649226)"
 * Lee con atención estos dos blogs, uno está en inglés y otro es una especie de traducción pero con proyectos en español:
- * Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
- * Silvia Guitiérrez (2016). “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
+ 1. Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
+ 2. Silvia Guitiérrez (2016). “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
 
 En clase: 
 * Los distintos tipos de proyectos en humanidades digitales
@@ -26,29 +26,29 @@ En clase:
 
  [Writing Exercice: “You and our Digital Life”](https://susannalles.github.io/SPA410/ejercicios/e-0.html)
    
-## Class 3. Monday, August 30 
+## Clase 3. Lunes, 30 agosto
 
-Before class:          
-* Read: Dossier & Drucker 2014, p. 11
-* Browse the list of DH projects and choose one to present in class (following the template)
+Antes de clase:         
+* Leer Dossier & Drucker 2014, p. 11 "1B. Analysis of DH Projects, Platforms, and Tools" y anotarlos en Hypothes.is
+* Elegir un proyecto de humanidades digitales (avisadme de vuestra selección) y preparar una presentación oral. Debéis seguir este template que os he traducido en español Evaluación de Proyecto Digital. Esta plantilla (template) es una traducción de [Digital Project Evaluation](https://docs.google.com/document/d/1jp0bQ18hXKxekgACfBCw_6P6lO_xg4uzUXXMvT2jaPo/edit) y aquí tenéis un ejemplo completado en inglés sobre el [Green Book](https://docs.google.com/document/d/1YRnmswrp36LQ9ss1kKV9R2KcvL7XeJ0tP9a7Y4WeB1o/edit).
 
-In Class:              
-* Types of DH Projects
-* Analysis of digital projects and in class presentations
+En clase:              
+* Tipos de proyectos en HD
+* Presentaciones y proyectos escogidos 
 
-[Presentation 1 of a DH Project](https://susannalles.github.io/SPA410/ejercicios/Presentacion-1.html)
+[Presentación 1 de un proyecto HD](https://susannalles.github.io/SPA410/ejercicios/Presentacion-1.html)
 
-## Class 4. Wednesday, September 1 
+## Clase 4. Miércoles, 1 septiembre
 
-Before class: 
-* Read: Michel Foucault, “Introducciónn,” *Las palabras y las cosas* pág. 1-10 (1966)
-* Read: Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
-* Prepare annotations about the readings in Hypothes.is (Blackboard)
+Antes de clase: 
+* Leer y anotar en hypothes.is:  
+* Michel Foucault, “Introducciónn,” *Las palabras y las cosas* pág. 1-10 (1966)
+* Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
 
 In Class: 
-* Classification systems & markup langauges (HTML)
-* Text as Data
-* Intor for next day: Installation of Oxygen software
+* Comentario sobre las lecturas (Foucault, Borges)
+* Clasificación de sistemas y lenguajes de marcados (HTML)
+* Los textos como dtos 
 
 **Monday, September 6: Labor Day**
 
