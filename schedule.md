@@ -112,50 +112,84 @@ En clase:
 
 [Tarea 3: un ejemplo comentado de Dublin Core](https://susannalles.github.io/SPA410/ejercicios/tarea-3.html)
    
-#### Class 10. Monday, September 27 -  EXPLORING THE PAST
+## Clase 10. Lunes, 27 septiembre
 
-What does it mean to edit a text? Creating meaning TEI
+Antes de clase: 
+* Leer y comentar en hypothes.is: Allés Torrent, Susanna. (2019). Introducción a la Text Encoding Initiative. Definición, aplicaciones prácticas y recursos. Zenodo. <https://doi.org/10.5281/zenodo.4430863> Este capítulo forma parte del tutorial en línea: [Introducción a la TEI](https://tthub.io/aprende/introduccion-a-tei/). Prestad atención a los ejemplos y exploradlos.
+* Leed también este pequeño texto: Can humanities undergrads learn to code?
+* Explorad estos proyectos con alumnos undergrad: [Anna Julia Cooper. Responses to the Survey of Negro College Graduates](https://alicer98.github.io/DIGIT-110-AJC-Survey/index.html) y [Cartas a la familia](https://familyletters.unl.edu/)
 
-Read:
-* Alan Liu (2014). “Ways of Reading, Models for Text, and the Usefulness of Dead People” • Can humanities undergrads learn to code? (2020)
+En clase: 
+* ¿Qué es una edición digital?
+* ¿Cómo imaginamos una edición de las *Memorias* de Leonor López de Córdoba?
 
-Presentation (2): Browse the list of Digital Editions and choose one to analyze and present in class
+## Clase 11. Miércoles, 29 septiembre
 
-#### Class 11. Wednesday, September 29
+Antes de clase:
+* Leer y anotar el texto con el que trabajaremos las siguientes cinco semanas: [Leonor López de Córdoba, Memorias](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1005&context=oer)
+* Responder a estas preguntas: 
+ 1. ¿Qué tipo de texto es? ¿Cuáles son sus partes? (haz un esquema (outline) de las diferentes secciones del texto).
+ 2. Subraya los nombres de lugar en amarillo, y los nombres de personas en verde.
+ 3. ¿Qué tipo de relación mantiene Leonor con los personajes citados?
+ 4. Prepara una opinión argumentada sobre este texto (no es suficiente decir "me parece interesante").
+ 5. ¿Cuáles crees que podrían ser las posibilidades digitales de un texto de este tipo?
 
-Leonor López de Córdoba, a 15th century woman. What can the “digital” bring to the table?
+En clase:
+* Discusión sobre el texto de Leonor y las posibilidades digitales de este texto
 
-Read:
-* Leonor López de Córdoba, *Memorias*
+## Clas2 12. Lunes, 4 octubre
 
-Prepare: Reading guide
- 
-#### Class 12. Monday, October 4
+Antes de clase:
+* Leer y comentar en Hypothesis la Lección 2 sobre Text Encoding Initiative "El lenguaje XML y algunos conceptos generales"
+* Hacer el ejercicio 1: https://tthub-repo.github.io/ejercicios/2.Creacion-doc-xml Podéis elegir cualquier poema y si no encontráis ninguna, os propongo este de Francisco de Quevedo:
+Es hielo abrasador, es fuego helado,\
+es herida que duele y no se siente,\
+es un soñado bien, un mal presente,\
+es un breve descanso muy cansado.\
+Es un descuido que nos da cuidado,\
+un cobarde, con nombre de valiente,\
+un andar solitario entre la gente,\
+un amar solamente ser amado.\
+Es una libertad encarcelada,\
+que dura hasta el postrero parasismo,\
+enfermedad que crece si es curada.\
+Este es el niño Amor, este es su abismo.\
+¡Mirad cuál amistad tendrá con nada\
+el que en todo es contrario de sí mismo!\
 
-The Text Encoding Initiative and semantic annotation I
+En clase:
+* Escucharemos vuestras presentaciones orales sobre un proyecto de edición digital
+* Resolveremos dudas sobre el lenguaje XML, las guías directrices de la TEI, y sobre el ejercicio.
 
-Read:
-* TTHub, Lección 1, https://tthub.io/aprende/l1-intro-a-tei/ Hands-on:
+[Presentación 2: Elección de un proyecto de edición digital, análisis y presentación en clase](https://susannalles.github.io/SPA410/ejercicios/presentacion-2.html)
 
-Exercice Creación de un documento XML
-    
+## Clase 13. Miércoles, 6 octubre
 
-#### Class 13. Wednesday, October 6
+Antes de clase:
+* Traer una carpeta con las imágenes para vuestro post sobre evaluación de un proyecto de edición digital
+* Leer y anotar la Lección 3 "[Estructura básica y elementos comunes de los documentos XML-TEI](https://zenodo.org/record/4446128#.YhAR5t9OmX1)"
+* Hacer dos ejercicios: "[Creación de un documento TEI](https://tthub-repo.github.io/ejercicios/3.Creacion-doc-tei)" y "[Codificación de la biografía de Catalina de Lancaster](https://tthub-repo.github.io/ejercicios/5.Codificacion-biografia)"
 
-The Text Encoding Initiative and semantic annotation II
-
-Read:
-* TTHub, Lección 2, https://tthub.io/aprende/l2-xml/ Hands-on:
-* Exercice Creación de un documento TEI
+En clase:
+* Discusión de vuestras anotaciones a la Lección 2 y 3 sobre XML y la estructura básica en XML-TEI
+* Resolución de dudas con los ejercicios XML-TEI 
    
-#### Class 14. Monday, October 11
+## Clase 14. Lunes, 11 octubre
 
-Encoding Structures, Names and Places
+Antes de clase: 
+https://www.youtube.com/watch?v=libZ2MV_CRI
+* Leed en diagonal (skim it) la siguiente unidad del proyecto TTHUB: en la web https://tthub.io/aprende/l4-guias/ o en pdf https://zenodo.org/record/4554709#.YV3kP6ApBz8 (Solo la “Introducción”)
+* Leer con atención la sección de "Prosa" o  bien en la web https://tthub.io/aprende/l5-tipologias/  o en el pdf https://zenodo.org/record/4555173#.YV3kBaApBz8 (el resto, "Poesía, drama, etc." es optativo, aunque os recomiendo la lectura también). :)
+* Descargad el archivo con el [texto de Leonor en texto plano](https://github.com/susannalles/SPA410/blob/main/Leonor/Leonor.txt) (.txt) e intentad hacer lo siguiente:
+ 1. Intenta crear un documento XML-TEI e incluir el texto de Leono. ¿Al interior de qué elemento debería ir situado?
+ 2. ¿Qué elementos estructurales tiene el texto? ¿Qué etiquetas o elementos TEI podríamos utilizar para marcarlos?
+ 3. ¿Qué elementos semánticos tiene el texto? ¿Cuáles crees que serían interesantes para este texto? ¿Qué elementos deberíamos utilizar para marcarlos?
+ 4. Piensa cómo podría ser una edición digital del texto de Leonor (trae una propuesta a clase, puede ser incluso un dibujo). Esta propuesta, algo más elaborada, es la que presentaréis el próximo miércoles. 
 
-Read:
-* TTHub, Lección 3, https://tthub.io/aprende/l3-basicos-tei/
+En clase: 
+* Discutiremos vuestros ejercicios 
 
-Digital Assignment (4): Encoding exercice   
+[Tarea 4: Codificación del texto de Leonor]  
 
 #### Class 15. Wednesday, October 13
 
