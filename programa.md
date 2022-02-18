@@ -26,7 +26,7 @@ En clase:
 * Relación que, según vosotros, puede existir entre las humanidades y lo digital, entre las letras y la informática
 * Dudas sobre vuestra presentación para el Lunes 30 de agosto
 
- [Writing Exercice: “You and our Digital Life”](https://susannalles.github.io/SPA410/ejercicios/e-0.html)
+ [Presentación personal: “Tu vida digital”](https://susannalles.github.io/SPA410/ejercicios/presentacion-0.html)
    
 ## Clase 3. Lunes, 30 agosto
 
