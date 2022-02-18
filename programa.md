@@ -67,7 +67,7 @@ Antes de clase:
 
 En clase: 
 * Sitios web, HTML, Internet, y datos estructurados
-* Intro para el próximo día: GitHubPages
+* [Intro para el próximo día a GitHub y GitHub Pages](https://github.com/susannalles/SPA410/blob/main/ejercicios/8-sept-indicaciones.md)
 
 [Ensayo 1: Describe una experiencia con datos / Imagina tu proyecto de HD](https://susannalles.github.io/SPA410/ejercicios/ensayo-1.html) 
 
@@ -78,7 +78,8 @@ Antes de clase:
 * Tutorial: Amanda Visconti (2021)"[Creación de sitios estáticos con Jekyll y GitHub](https://programminghistorian.org/es/lecciones/sitios-estaticos-con-jekyll-y-github-pages)." *Progamming Historian* 5
 
 En clase: 
-* GitHub, GitHub Pages
+* GitHub, GitHub Pages 
+* [Intro a GitHub Desktop](https://github.com/susannalles/SPA410/blob/main/ejercicios/12-sept-indicaciones.md)
 * Vuestro Portfolio 
   
 ## Clase 7. Miércoles, septiembre 15
