@@ -45,7 +45,6 @@ Antes de clase:
 * Michel Foucault, “Introducciónn,” *Las palabras y las cosas* pág. 1-10 (1966)
 * Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
 * Responder preguntas del dossier 
-* Tutorial: 
 
 In Class: 
 * Comentario sobre las lecturas (Foucault, Borges)
@@ -60,30 +59,31 @@ Antes de clase:
 * Leer Dossier & Drucker 2014, p. 15-17 (Takeaways en p. 18) 
 * Tutorial 1: William J. Turkel y Adam Crymble (2017). “[Para entender páginas web y HTML](https://programminghistorian.org/es/lecciones/ver-archivos-html).” *Programming Historian en español* 1
 * Tutorial 2 HTML [W3Schools](https://www.w3schools.com/html/default.asp) De [HOME](https://www.w3schools.com/html/default.asp) hasta [LISTS](https://www.w3schools.com/html/html_lists.asp)   
-* [Tarea 1: Creación de vuestra primera página web]()
+* Tarea 1: Creación de vuestra primera página web (resultado tutorial 2)
 
 En clase: 
 * Sitios web, HTML, Internet, y datos estructurados
 * Intro para el próximo día: GitHubPages
 
-[Ensayo 1: Describe una experiencia con datos / Imagina tu proyecto de HD]() 
+[Ensayo 1: Describe una experiencia con datos / Imagina tu proyecto de HD](https://susannalles.github.io/SPA410/ejercicios/ensayo-1.html) 
 
-## Class 6. Monday, September 13
+## Clase 6. Lunes, 13 septiembre
 
-Before Class: 
-* Read Dossier (selection of short readings)
-* Hands-on & Tutorial: "[Creación de sitios estáticos con Jekyll y GitHub]()." *Progamming Historian*
+Antes de clase: 
+* Leer Dossier "El Portfolio" 
+* Tutorial: Amanda Visconti (2021)"[Creación de sitios estáticos con Jekyll y GitHub](https://programminghistorian.org/es/lecciones/sitios-estaticos-con-jekyll-y-github-pages)." *Progamming Historian* 5
 
 In Class: 
 * GitHub, GitHub Pages
-* Your Portfolio 
+* Vuestro Portfolio 
   
-#### Class 7. Wednesday, September 15 - Data and Formats
+#### Clase 7. Miércoles, septiemrbe 15
 
-Before Class: 
-* Read: Drucker 2014, p. 24-27
+Antes de clase: 
+* Leed y anotad el texto de Drucker 2014, pp. 24-27
+* Familiarizaros con la nueva estructura de archivos que hay en vuestro repositorio de GitHub
 
-In Class: 
+En clase: 
 * Types of data and Digitization of Cultural Heritage
 * Troubleshooting 
 
