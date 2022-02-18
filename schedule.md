@@ -15,8 +15,8 @@ title: "Programa - Fall 2021"
 Antes de clase:
 * Leer: Dossier & Drucker 2014, p. 9 "[Introduction to Digital Humanities](https://searchworks.stanford.edu/view/11649226)"
 * Lee con atención estos dos blogs, uno está en inglés y otro es una especie de traducción pero con proyectos en español:
- - Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
- - Silvia Guitiérrez (2016). “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
+ * Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
+ * Silvia Guitiérrez (2016). “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
 
 En clase: 
 * Los distintos tipos de proyectos en humanidades digitales
