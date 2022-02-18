@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Digital Literacy Through Cultural and Literary Topics
 ---
 
 Fall 2021 \
