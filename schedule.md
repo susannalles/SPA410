@@ -105,13 +105,12 @@ En clase:
 ## Clase 9. Miércoles, 22 de septiembre
 
 Antes de clase: 
-* Leer el dossier "Clase 9. Datos y metadatos" 
+* Leer el dossier "Clase 9. Datos y metadatos" y responde las preguntas 
 
 En clase: 
 * Invitado especial: [Elliot Williams](https://elliotdwilliams.com/about-elliot/) que nos hablará de los metadatos utilizados por UM en sus catálogos y repositorios. Habrá un ejercicio práctico (Tarea digital / Digital assignment 3).
 
 [Tarea 3: un ejemplo comentado de Dublin Core](https://susannalles.github.io/SPA410/ejercicios/tarea-3.html)
- 
    
 #### Class 10. Monday, September 27 -  EXPLORING THE PAST
 
