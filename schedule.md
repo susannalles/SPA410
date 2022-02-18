@@ -53,7 +53,7 @@ In Class:
 
 **Monday, September 6: Labor Day**
 
-#### Clase 5. Miércoles, 8 Septiembre 
+## Clase 5. Miércoles, 8 Septiembre 
 
 Antes de clase:
 * Leer Dossier & Drucker 2014, p. 15-17 (Takeaways en p. 18) 
@@ -77,24 +77,26 @@ In Class:
 * GitHub, GitHub Pages
 * Vuestro Portfolio 
   
-#### Clase 7. Miércoles, septiemrbe 15
+#### Clase 7. Miércoles, septiembre 15
 
 Antes de clase: 
-* Leed y anotad el texto de Drucker 2014, pp. 24-27
+* Leed y anotad el texto de Drucker 2014, pp. 24-27 "3A. Ontologies and Metadata Standards" 
 * Familiarizaros con la nueva estructura de archivos que hay en vuestro repositorio de GitHub
 
 En clase: 
-* Types of data and Digitization of Cultural Heritage
-* Troubleshooting 
+* Funcionamiento de vuestro repositorio en GitHub
+* Formatos utilizados para los objetos culturales 
+* Discusión sobre la lectura de Drucker
 
-[Digital Assignment (2): Your portfolio (1st version)]()
+[Tarea 2: Primera versión de vuestro Portfolio](https://susannalles.github.io/SPA410/ejercicios/tarea-2.html)
  
 
-#### Class 8. Monday, September 20 - Data and Metadata
+#### Clase 8. Lunes, 20 septiembre
 
-Before Class: 
-* Read Gitelman & Jackson 2013, “Introduction” (Raw Data is an Oxymoron)
-* Read Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18
+Antes de clase: 
+* Leer el artículo: Allés-Torrent, "[Sobre la complejidad de los datos en Humanidades, o cómo traducir las ideas a datos](http://revistas.uned.es/index.php/RHD/article/view/24679)" *Revista de Humanidades digitales* 4 (2019) (sólo pp. 1-13)
+* Anotar preguntas sobre el artículo en Hypothes.is a través del enlace que tenéis más abajo.
+* Para discutir en clase, preparad las preguntas del Dossier
 
 In Class: 
 * Data for Cultural Objects. 
@@ -104,13 +106,15 @@ In Class:
 Guest Speaker: Elliot Williams, UM Library
 
 
-#### Class 9. Wednesday, September 22
+#### Clase 9. Miércoles, 22 de septiembre
 
-Before Class: 
-* [Digital Assignment (3): Creation of a Dublin Core record]()
+Antes de clase: 
+* Leer el dossier "Clase 9. Datos y metadatos" 
 
-In Class: 
-* More on Metadata for Literary and Cultural Objects
+En clase: 
+* Invitado especial: [Elliot Williams](https://elliotdwilliams.com/about-elliot/) que nos hablará de los metadatos utilizados por UM en sus catálogos y repositorios. Habrá un ejercicio práctico (Tarea digital / Digital assignment 3).
+
+[Tarea 3: 
  
    
 #### Class 10. Monday, September 27 -  EXPLORING THE PAST
