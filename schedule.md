@@ -91,7 +91,7 @@ En clase:
 [Tarea 2: Primera versión de vuestro Portfolio](https://susannalles.github.io/SPA410/ejercicios/tarea-2.html)
  
 
-#### Clase 8. Lunes, 20 septiembre
+## Clase 8. Lunes, 20 septiembre
 
 Antes de clase: 
 * Leer el artículo: Allés-Torrent, "[Sobre la complejidad de los datos en Humanidades, o cómo traducir las ideas a datos](http://revistas.uned.es/index.php/RHD/article/view/24679)" *Revista de Humanidades digitales* 4 (2019) (sólo pp. 1-13)
@@ -137,7 +137,7 @@ Antes de clase:
 En clase:
 * Discusión sobre el texto de Leonor y las posibilidades digitales de este texto
 
-## Clas2 12. Lunes, 4 octubre
+## Clase 12. Lunes, 4 octubre
 
 Antes de clase:
 * Leer y comentar en Hypothesis la Lección 2 sobre Text Encoding Initiative "El lenguaje XML y algunos conceptos generales"
@@ -250,79 +250,108 @@ En clase:
 * Revisión de dudas y finalización de la codificación y la transformación.
 
 
-EXPLORING THE PRESENT
+## Clase 20. Lunes, 1 noviembre
 
-#### Class 20. Monday, November 1 - Methods of Text Analysis
+Antes de clase:
+* Lee esta breve intro para la "Clase 20: Métodos de análisis"
+* Seguir el tutorial del Programming Historian: Heather Froehlich (2018). "Análisis de corpus con AntConc." *Programming Historian en español* 2
+* Explorar el proyecto Narrativas digitales de la COVID19 https://covid.dh.miami.edu/
+ 1. ¿Os gustaría centraros en un país en concreto (México, Argentina, Colombia, España, Ecuador, Perú, o Florida) y ver sobre lo que los usuarios de Twitter han hablado?
+ 2. ¿Qué temas pensáis que pueden ser interesantes sobre la pandemia?
+* Intentad crear un corpus que responda a vuestros intereses: https://covid.dh.miami.edu/get/ o bien trabajad con este archivo dhcovid_texts_month-2020-04_es_es.txt
 
-Creating a corpus
-Intro to the Covid-19 Twitter corpus
+En clase:
+* Discusuón sobre vuestros intereses y sobre los temas que pueden surgir al explorar un corpus de Twitter. Cada uno de vosotros deberá elegir un corpus, descargarlo y practicar con AntConc.
 
-Read:
-* Moretti 2005, Gráficos, mapas, árboles. Modelos abstractos para la historia literaria (selection)
+## Clase 21. Miércoles, 3 Noviembre
 
-* Explore (template): https://covid.dh.miami.edu/ 
+Antes de clase:
+* Lectura dossier para esta clase 21 y responder a las cuestiones planteadas.
+* Lectura sobre la evolución de la crisis del coronavirus en España: Clase_21_Pandemia.pdf Esta lectura puede sustituirse por otra que trate la pandemia en otro país que sea más de vuestro interés (México, Argentina, Perú, colombia, Ecuador, o Miami).
 
-#### Class 21. Wednesday, November 3
+En clase:
+* Continuación de la práctica con vuestro corpus en AntConc y discusión de las posibilidades de análisis.
+* Debéis decidir cuál va a ser vuestra area de studio y empezar a pensar en vuestro tema para los ensayos 3 y 4.
+* Ejercicio en grupos, describid cómo se procedería a la elaboración de un corpus con estas dos colecciones de la biblioteca: [1](https://digitalcollections.library.miami.edu/digital/collection/asu0053/search) y [2](https://digitalcollections.library.miami.edu/digital/collection/asu0134/search)
 
-Quantifying textual data (AntConc)
+## Clase 22. Lunes, 8 noviembre
 
-Hands-on: Análisis de corpus con AntConc (Programming Historian)
+Antes de clase:
+* Debéis realizar el tutorial que trata sobre una herramienta que se llama Voyant: Silvia Gutiérrez De la Torre (2019). "[Análisis de corpus con Voyant Tools](https://doi.org/10.46430/phes0043)." *Programming Historian* 3
+* Responder a las preguntas del dossier: Clase22_Voyant.pdf 
+* Revisar la lista de stopwords o palabras vacías: https://github.com/dh-miami/narratives_covid19/blob/master/scripts/stopwords/stopwords_es.txt 
 
-#### Class 22. Monday, November 8
+En clase:
+* Hablaremos de las preguntas planteadas por Gutiérrez De la Torre en el tutorial y trabajaremos con vuestros corpus y Voyant.
 
-Quantifying literature (Voyant)
+## Clase 23. Miércoles, 10 noviembre
 
-Read:
-* Sinclair & Rockwell 2016. “Text Analysis and Visualization: Making Meaning Count.” In A New Companion to Digital Humanities, pp. 274-290
+Antes de clase:
+* Lectura del texto: Sinclair & Rockwell 2016. “Text Analysis and Visualization: Making Meaning Count.” In *A New Companion to Digital Humanities*, pp. 274-290 s
+* Contestar las preguntas del dossier a propósito del artículo de Sinclair y Rockwell: Clase23_Voyant.pdf 
+* Debéis elegir dos lecturas que sean pertinentes para el tema sobre el que queréis escribir: 
+  1. Una de ellas debe tratar sobre Twitter y el análisis de los datos y debe estar en esta lista de Zotero: https://www.zotero.org/groups/2475685/digital_narratives_of_covid-19/library 
+  2. La otra lectura puede proceder de un periódico o otra fuente y debe estar estrechamente relacionada con vuestro tema.
+  3. Tenéis que mandarme los links antes de la clase del miércoles a las 3:30pm.
 
-Hands-on: Análisis de corpus con Voyant Tool (Programming Historian)
-  
+En clase:
+* Discusión de la lectura de Sinclair y Rockwell
+* Explicación de vuestra bibliografía 
+* Práctica con vuestro corpus y sobre el tema de investigación que queréis tratar en vuestro ensayo 3 y 4.
 
-#### Class 23. Wednesday, November 10
+## Clase 24. Lunes, 15 noviembre
 
-Quantifying literature (Voyant)
+Antes de clase:
+* Leer los siguientes posts para familiarizaros con lo que os explicará Jerry Bonell:
+ 1. [Coveet.py: Python Scripts to Explore Our Data](https://covid.dh.miami.edu/explore-coveet-py/)
+ 2. [Frequency Analysis for South Florida (April – June)](https://covid.dh.miami.edu/2020/08/15/frequency-analysis-for-south-florida-april-june/)
 
-Read:
-* Jockers 2013, Macroanalysis (selections)
-Essay (3):
-* Reflections on distant reading
+En clase:
+* Invitado especial: Jerry Bonell. 
+* Cómo ejecutar un script que analiza vuestro corpus. 
+* Venid a clase con vuestro corpus totalmente definido.
 
-#### Class 24. Monday, November 15
+[Ensayo 3: Reflexiones sobre análisis de textos](https://susannalles.github.io/SPA410/ejercicios/ensayo-3.html)
 
-Using Jupyter notebooks & looking for a research question I
-Guest Speaker / Developper: Jerry Bonnell, Computer Science department
+## Clase 25. Miércoles, 17 noviembre
 
-Hands-on: Using Jupyter Notebooks - Blog post DH Covid-19 I
-
-#### Class 25. Wednesday, November 17
-
-Covid-19 II
-Using Jupyter notebooks & looking for a research question II
-
-Hands-on: Using Jupyter Notebooks - Blog post DH
+* Recapitulación y solución de probles 
 
 Thanksgiving November 18 - 28
 
-#### Class 26. Monday, November 29
+## Clase 26. Lunes, 29 noviembre
 
-Prepare last essay, last presentation, & final version of your Portfolio
-Working towards Final Presentation
+Antes de clase:
+* Revisad todo el material que hemos realizado en las clases 24 y 25
+* Tener listo un esquema (outline) de vuestro trabajo final (versión escrita).
 
-#### Class 27. Wednesday, December 1
+En clase:
+* Discutiremos y trabajaremos en vuestros trabajos rellenando la plantilla (Blackboard)
 
-Prepare last essay, last presentation, & final version of your Portfolio
+## Clase 27. Miércoles, 1 diciembre
 
-Essay (4): “Digging and formulating a research question in a COVID-19 corpus”
-Working towards Final Presentation “Digging and formulating a research question in a COVID-19 corpus”
+Antes de clase:
+* Acabar de redactar el primer borrador de vuestro trabajo escrito
 
-### Class 28. Monday, December 6
+En clase: 
+* Solución de dudas y problemas
 
-Final Presentations (4) “Digging and formulating a research question in a COVID-19 corpus”
+[Ensayo 4: Explorando y formulando un tema de investigación en un corpus de Twitter sobre la COVID-19](https://susannalles.github.io/SPA410/ejercicios/ensayo-4.html)
 
-### Class 29. Wednesday, December 8
+## Clase 28. Lunes, 6 diciembre
 
-* Lisa Spiro, “Defining the values of the Digital Humanities.” Debates in the Digital Humanities, eds. Matthew K. Gold and Lauren F. Klein, University of Minnesota Press 2012
-* Finals remarks and thoughts
+En clase: 
+* Presentación oral de unos 10 minutos (max.) sobre vuestro tema de investigación que deberá incluir, como mínimo:
+ 1. Vuestro tema de investigación
+ 2. Dificultades afrontadas y reflexiones
+ 3. Explicación de las visualizaciones obtenidas
+ 4. Conclusiones sobre vuestro tema de investigación
 
-**December 11**
-Final version of your Portfolio
+## Clase 29. Miércoles, 8 diciembre
+
+En clase:
+* Presentaciones del Portfolio final 
+* Despedida 
+
+**11 diciembre**
+Entrega de la versión final del Portfolio
