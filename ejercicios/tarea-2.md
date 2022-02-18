@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tarea 2: "
+title: "Tarea 2: Primera versión del Portfolio"
 ---
 
 La tarea digital 2 (digital assingment 2) consiste en una primera entrega de vuestro portofolio que debe contener ya:
