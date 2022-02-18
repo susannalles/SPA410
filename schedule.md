@@ -5,21 +5,21 @@ title: "Schedule - Fall 2021"
 
 ## Class 1. Monday, Aug. 23
 
-- Introduction and presentations
+* Introduction and presentations
 
 ## Class 2. Wednesday, August 25 
 
 Before class:
 * Read: dossier & Drucker 2014, p. 9
 * Read and explore: Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
-* Read and explore: Silvia Guitiérrez 2016. “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
+* Read and explore: Silvia Guitiérrez (2016). “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
 
 In class: 
-* The Humanities and the digital\ 
-* Definitions & Discussion\ 
+* The Humanities and the Digital
+* Definitions & Discussion
 * Types of DH projects 
 
- [Writing Exercice: “You and our Digital Life”]()
+ [Writing Exercice: “You and our Digital Life”](/ejercicios/e0.html)
    
 ## Class 3. Monday, August 30 
 
