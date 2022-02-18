@@ -6,8 +6,6 @@
 layout: home
 ---
 
-# Digital Literacy Through Cultural and Literary Topics 
-
 Fall 2021 \
 Monday - Wednesday 3:30-4:45pm\
 Classroom: Dooly Memorial 208
