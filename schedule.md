@@ -9,113 +9,103 @@ title: "Schedule - Fall 2021"
 
 ## Class 2. Wednesday, August 25 
 
-Before class          | In Class              | 
---------------------- | --------------------- | 
-* Dossier & Drucker 2014, p. 9
-* Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
-* Silvia Guitiérrez 2016. “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”                 | Introduction to Digital Humanities\ The Humanities and the digital\ Definitions & Discussion\ Types of DH projects | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
+Before class:
+* Read: dossier & Drucker 2014, p. 9
+* Read and explore: Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
+* Read and explore: Silvia Guitiérrez 2016. “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
 
-Introduction to Digital Humanities
-The Humanities and the digital. Definitions & Discussion.
-Types of DH projects
+In class: 
+* The Humanities and the digital\ 
+* Definitions & Discussion\ 
+* Types of DH projects 
 
-Read:
-* Dossier & Drucker 2014, p. 9
-* Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
-* Silvia Guitiérrez 2016. “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”
-
- Writing Exercice: “You and our Digital Life”
+ [Writing Exercice: “You and our Digital Life”]()
    
-#### Class 3. Monday, August 30 
+## Class 3. Monday, August 30 
 
-Before class          | In Class              | 
---------------------- | --------------------- | 
-lorem                 | lorem ipsum           | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
-lorem ipsum dolor sit | lorem ipsum dolor sit | 
-Types of DH Projects
+Before class:          
+* Read: Dossier & Drucker 2014, p. 11
+* Browse the list of DH projects and choose one to present in class (following the template)
 
-Analysis of digital projects and in class presentations
+In Class:              
+* Types of DH Projects
+* Analysis of digital projects and in class presentations
 
-Read:
-* Dossier & Drucker 2014, p. 11
+[Presentation (1) of a DH Project]()
 
-Presentation (1): Browse the list of DH projects and choose one to present in class (following the template).
+## Class 4. Wednesday, September 1 
 
-#### Class 4. Wednesday, September 1 
+Before class: 
+* Read: Michel Foucault, “Introducciónn,” Las palabras y las cosas pág. 1-10 (1966)
+* Read: Borges, “El idioma analítico de John Wilkins” (1952) (4 pág.)
+* Prepare annotations about the readings in Hypothes.is
 
-Text as Data
-
-Classification systems & markup langauges (HTML)
-
-Read:
-* Michel Foucault, “Introducciónn,” Las palabras y las cosas pág. 1-10 (1966)
-* Borges, “El idioma analítico de John Wilkins”
-(1952) (4 pág.)
-
-Prepare: annotations about the readings in Hypothes.is
- 
-For next day: Installation of Oxygen software
+In Class: 
+* Classification systems & markup langauges (HTML)
+* Text as Data
+* Intor for next day: Installation of Oxygen software
 
 **Monday, September 6: Labor Day**
 
 #### Class 5. Wednesday, September 8
 
-Read:
-* Dossier & Drucker 2014, p. 15-17 (Takeaways
-in p. 18) Hands-on & Tutorial:
-* “Para entender páginas web y HTML”
+Before Class:
+* Read Dossier & Drucker 2014, p. 15-17 (Takeaways in p. 18) 
+* Hands-on & Tutorial: William J. Turkel y Adam Crymble (2017). “[Para entender páginas web y HTML](https://programminghistorian.org/es/lecciones/ver-archivos-html).” *Programming Historian en español* 1   
+* Digital Assignment (1): Creation of an html document
 
-Digital Assignment (1): Creation of an html document
+In Class: 
+* Websites, HTML, the Internet, and Structured Data
+* Intro for next day: GitHubPages
 
-Essay (1): Describe a data experience / Imagine a digital humanities project? Websites, HTML, the Internet, and Structured Data
+[Essay (1): Describe a data experience / Imagine a digital humanities project?]() 
 
-Intro for next day: GitHubPages
+## Class 6. Monday, September 13
 
-#### Class 6. Monday, September 13
+Before Class: 
+* Read Dossier (selection of short readings)
+* Hands-on & Tutorial: "[Creación de sitios estáticos con Jekyll y GitHub]()." *Progamming Historian*
 
-Your Portfolio 
-
-Read:
-* Reading Dossier (selection of short readings)
-
-Hands-on & Tutorial:
-* Creación de sitios estáticos con Jekyll y GitHub (Progamming Historian)
-  
+In Class: 
+* GitHub, GitHub Pages
+* Your Portfolio 
   
 #### Class 7. Wednesday, September 15 - Data and Formats
 
-Types of data and Digitization of Cultural Heritage
+Before Class: 
+* Read: Drucker 2014, p. 24-27
 
-Read:
-* Drucker 2014, p. 24-27
+In Class: 
+* Types of data and Digitization of Cultural Heritage
+* Troubleshooting 
 
-Digital Assignment (2): Your portfolio (1st version)
+[Digital Assignment (2): Your portfolio (1st version)]()
  
 
 #### Class 8. Monday, September 20 - Data and Metadata
 
-Data for Cultural Objects. Metadata standards for GLAM. Open Acess and Structured Data
+Before Class: 
+* Read Gitelman & Jackson 2013, “Introduction” (Raw Data is an Oxymoron)
+* Read Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18
+
+In Class: 
+* Data for Cultural Objects. 
+* Metadata standards for GLAM. 
+* Open Acess and Structured Data
+
 Guest Speaker: Elliot Williams, UM Library
 
-Read:
-* Gitelman & Jackson 2013, “Introduction” (Raw Data is an Oxymoron)
-* Jenn Riley, NISO, “Understanding Metadata,” pgs 1-18
-  
 
 #### Class 9. Wednesday, September 22
 
-More on Metadata for Literary and Cultural Objects
+Before Class: 
+* [Digital Assignment (3): Creation of a Dublin Core record]()
 
-Digital Assignment (3): Creation of a Dublin Core record
+In Class: 
+* More on Metadata for Literary and Cultural Objects
  
-    EXPLORING THE PAST
-    
-#### Class 10. Monday, September 27 - Encoding Texts
+   
+#### Class 10. Monday, September 27 -  EXPLORING THE PAST
 
 What does it mean to edit a text? Creating meaning TEI
 
