@@ -41,9 +41,11 @@ En clase:
 ## Clase 4. Miércoles, 1 septiembre
 
 Antes de clase: 
-* Leer y anotar en hypothes.is:  
+* Leer, anotar en hypothes.is:  
 * Michel Foucault, “Introducciónn,” *Las palabras y las cosas* pág. 1-10 (1966)
 * Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
+* Responder preguntas del dossier 
+* Tutorial: 
 
 In Class: 
 * Comentario sobre las lecturas (Foucault, Borges)
@@ -52,18 +54,19 @@ In Class:
 
 **Monday, September 6: Labor Day**
 
-#### Class 5. Wednesday, September 8
+#### Clase 5. Miércoles, 8 Septiembre 
 
-Before Class:
-* Read Dossier & Drucker 2014, p. 15-17 (Takeaways in p. 18) 
-* Hands-on & Tutorial: William J. Turkel y Adam Crymble (2017). “[Para entender páginas web y HTML](https://programminghistorian.org/es/lecciones/ver-archivos-html).” *Programming Historian en español* 1   
-* Digital Assignment (1): Creation of an html document
+Antes de clase:
+* Leer Dossier & Drucker 2014, p. 15-17 (Takeaways en p. 18) 
+* Tutorial 1: William J. Turkel y Adam Crymble (2017). “[Para entender páginas web y HTML](https://programminghistorian.org/es/lecciones/ver-archivos-html).” *Programming Historian en español* 1
+* Tutorial 2 HTML [W3Schools](https://www.w3schools.com/html/default.asp) De [HOME](https://www.w3schools.com/html/default.asp) hasta [LISTS](https://www.w3schools.com/html/html_lists.asp)   
+* [Tarea 1: Creación de vuestra primera página web]()
 
-In Class: 
-* Websites, HTML, the Internet, and Structured Data
-* Intro for next day: GitHubPages
+En clase: 
+* Sitios web, HTML, Internet, y datos estructurados
+* Intro para el próximo día: GitHubPages
 
-[Essay (1): Describe a data experience / Imagine a digital humanities project?]() 
+[Ensayo 1: Describe una experiencia con datos / Imagina tu proyecto de HD]() 
 
 ## Class 6. Monday, September 13
 
