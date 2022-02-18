@@ -1,13 +1,22 @@
 ---
 layout: page
-title: "Programa del curso (Fall 2021)"
+title: "Schedule - Fall 2021"
 ---
 
-#### Class 1. Monday, Aug. 23
+## Class 1. Monday, Aug. 23
 
 - Introduction and presentations
 
-#### Class 2. Wednesday, August 25 
+## Class 2. Wednesday, August 25 
+
+Before class          | In Class              | 
+--------------------- | --------------------- | 
+* Dossier & Drucker 2014, p. 9
+* Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
+* Silvia Guitiérrez 2016. “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”                 | Introduction to Digital Humanities\ The Humanities and the digital\ Definitions & Discussion\ Types of DH projects | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
 
 Introduction to Digital Humanities
 The Humanities and the digital. Definitions & Discussion.
@@ -22,6 +31,12 @@ Read:
    
 #### Class 3. Monday, August 30 
 
+Before class          | In Class              | 
+--------------------- | --------------------- | 
+lorem                 | lorem ipsum           | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
+lorem ipsum dolor sit | lorem ipsum dolor sit | 
 Types of DH Projects
 
 Analysis of digital projects and in class presentations
