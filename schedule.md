@@ -189,45 +189,67 @@ https://www.youtube.com/watch?v=libZ2MV_CRI
 En clase: 
 * Discutiremos vuestros ejercicios 
 
-[Tarea 4: Codificación del texto de Leonor]  
+[Tarea 4: Codificación del texto de Leonor](https://susannalles.github.io/SPA410/ejercicios/tarea-4.html)  
 
-#### Class 15. Wednesday, October 13
+## Clase 15. Miércoles, 13 octubre
 
-Presentation (3): Transformation and presentation of XML - Proposal to publish Leonor’s text TEI documents
+Antes de clase:
+* Preparar una breve presentación sobre cómo podríamos hacer una edición digital de Leonor López de Córdoba:
+ 1. ¿Qué apartados podría tener?
+ 2. ¿Qué funcionalidades?
+ 3. ¿Qué elementos multimedia?
+ 4. ¿Cómo podría aparecer el texto?
+* Llevar a cabo la codificación de un fragmento del texto (a cada estudiante se le asignarán unos párrafos), siguiendo las indicaciones "Clase 15. Codificación del texto de Leonor" 
 
-#### Class 16. Monday, October 18 - Mapping
+En clase:
+* Presentaciones estudiantes
+* Solución y discusión de la codificación del texto de Leonor
 
-Mapping with TEI: Leonor’s travels I
+[Presentación 3: Propuesta para publicar el texto de Leonor]
 
-Hands-on: Introducción a Google Maps y Google Earth (Programming Historian)
+## Clase 16. Lunes, 18 octubre
 
-Essay (2): “Encoding and Close Reading”
-  
-#### Class 17. Wednesday, October 20
+Antes de clase:
+* Debéis llevar a cabo la codificación que se os asignó utilizando GitHub Desktop (ver indicaciones de la Clase 15) y subiendo vuestra codificación en el repositorio común 
+* División en equipos encargados de: 1. Nombres de persona; 2. Nombres de lugar: 3. Números de página según la edición del Internet Archive; 4. Fechas, títulos, oraciones, "diálogos" (frases de los personajes)
+* Entender y hacer la transformación con transform.xsl. Sigue las indicaciones en [Transformación de un documento XML-TEI con Oxygen](https://tthub-repo.github.io/ejercicios/9.Ej_transformacion) 
+* El Ejercicio 2 consiste en utilizar nuestra propia hoja XSLT para darle el diseño que queremos y acompañarla además de una CSS para mejorar el diseño. En este caso, utilizaremos un escenario de transformación para que el resultado final sea más parecido al estilo de nuestro portfolio. En "Clase 16. Transformar un documento XML-TEI" encontrarás los pasos a seguir. 
 
-Mapping with TEI: Leonor’s travels II
+En clase:
+* Revisaremos vuestras codificaciones
+* Intro a las transformaciones con XSLT
 
-Read:
-* Dossier (selection of short readings)
+## Clase 17. Miércoles, 20 Octubre
 
-Digital Assignment (5): Creation of a map
+Antes de clase:
+* Acabar las codificaciones en TEI y transformar el texto (XML > HTML)
+* Seguir el tutorial sobre mapas: Jim Clifford, Josh MacFadyen, y Daniel Macfarlane (2018). "[Introducción a Google Maps y Google Earth](https://doi.org/10.46430/phes0036)", *Programming Historian en español* 2
+
+En clase:
+* Resolución de dudas e integración a vuestro Portfolio
+
+[Tarea 5: Creación del mapa](https://susannalles.github.io/SPA410/ejercicios/tarea-5.html)
  
-#### Class 18. Monday, October 25 - Networks
+## Clase 18. Lunes, 25 octubre
 
-Networks: Leonor’s family, friendships and enmities I
+Antes de clase:
+* Crear la última versión transformada del documento de Leonor. Propuesta de cambios.
+* Acabar el mapa siguiendo los pasos de la Tarea 5
 
-Hands-on: De la hermenéutica a las redes de datos: Extracción de datos y visualización de redes en fuentes históricas (Programming Historian)
-    
+En clase:
+* Revisaremos cuestiones sobre codificación y solucionaremos problemas del mapa.
 
-#### Class 19. Wednesday, October 27
+[Ensayo 2: Una propuesta para una edición de las Memorias](https://susannalles.github.io/SPA410/ejercicios/ensayo-2.html)
 
-Networks: Leonor’s family, friendships and enmities II
+## Clase 19. Miércoles, 27 Octubre
 
-Read:
-* Dossier (selection of short readings)
+Antes de clase:
+* Colgar en vuestro repositorio la [https://susannalles.github.io/SPA410/ejercicios/tarea-5.html] 
 
-Digital Assignment (6): Creation of a network
- 
+En clase:
+* Revisión de dudas y finalización de la codificación y la transformación.
+
+
 EXPLORING THE PRESENT
 
 #### Class 20. Monday, November 1 - Methods of Text Analysis
