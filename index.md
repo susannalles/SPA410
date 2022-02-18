@@ -12,6 +12,8 @@ Monday - Wednesday 3:30-4:45pm\
 Classroom: Dooly Memorial 208
 
 Prof. Susanna Allés Torrent\
+Modern Languages and Literatures, 210-23\
+University of Miami\
 susanna_alles@miami.edu\
 Office hours: M-W 11am - 1pm, and by appointment
 
