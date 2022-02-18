@@ -77,7 +77,7 @@ In Class:
 * GitHub, GitHub Pages
 * Vuestro Portfolio 
   
-#### Clase 7. Miércoles, septiembre 15
+## Clase 7. Miércoles, septiembre 15
 
 Antes de clase: 
 * Leed y anotad el texto de Drucker 2014, pp. 24-27 "3A. Ontologies and Metadata Standards" 
@@ -95,18 +95,14 @@ En clase:
 
 Antes de clase: 
 * Leer el artículo: Allés-Torrent, "[Sobre la complejidad de los datos en Humanidades, o cómo traducir las ideas a datos](http://revistas.uned.es/index.php/RHD/article/view/24679)" *Revista de Humanidades digitales* 4 (2019) (sólo pp. 1-13)
-* Anotar preguntas sobre el artículo en Hypothes.is a través del enlace que tenéis más abajo.
-* Para discutir en clase, preparad las preguntas del Dossier
+* Anotar preguntas sobre el artículo en Hypothes.is
+* Para discutir en clase, preparad las preguntas del Dossier "Clase 8. Datos y metadatos para las Humanidades Digitales y Objetos Culturales"
 
-In Class: 
-* Data for Cultural Objects. 
-* Metadata standards for GLAM. 
-* Open Acess and Structured Data
+En clase: 
+* Discusión de la noción de dato y metadato en humanidades
+* Estándares de metadatos para GLAM. 
 
-Guest Speaker: Elliot Williams, UM Library
-
-
-#### Clase 9. Miércoles, 22 de septiembre
+## Clase 9. Miércoles, 22 de septiembre
 
 Antes de clase: 
 * Leer el dossier "Clase 9. Datos y metadatos" 
@@ -114,7 +110,7 @@ Antes de clase:
 En clase: 
 * Invitado especial: [Elliot Williams](https://elliotdwilliams.com/about-elliot/) que nos hablará de los metadatos utilizados por UM en sus catálogos y repositorios. Habrá un ejercicio práctico (Tarea digital / Digital assignment 3).
 
-[Tarea 3: 
+[Tarea 3: un ejemplo comentado de Dublin Core](https://susannalles.github.io/SPA410/ejercicios/tarea-3.html)
  
    
 #### Class 10. Monday, September 27 -  EXPLORING THE PAST
