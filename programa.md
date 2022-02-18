@@ -111,6 +111,7 @@ En clase:
 
 Antes de clase: 
 * Leer el dossier "Clase 9. Datos y metadatos" y responde las preguntas 
+* Descargar [materiales para la clase](https://github.com/susannalles/SPA410/tree/main/ejercicios/22-sept)
 
 En clase: 
 * Invitado especial: [Elliot Williams](https://elliotdwilliams.com/about-elliot/) que nos hablará de los metadatos utilizados por UM en sus catálogos y repositorios. Habrá un ejercicio práctico (Tarea digital / Digital assignment 3).
