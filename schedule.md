@@ -46,7 +46,7 @@ Antes de clase:
 * Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
 * Responder preguntas del dossier 
 
-In Class: 
+En clase: 
 * Comentario sobre las lecturas (Foucault, Borges)
 * Clasificación de sistemas y lenguajes de marcados (HTML)
 * Los textos como dtos 
@@ -73,7 +73,7 @@ Antes de clase:
 * Leer Dossier "El Portfolio" 
 * Tutorial: Amanda Visconti (2021)"[Creación de sitios estáticos con Jekyll y GitHub](https://programminghistorian.org/es/lecciones/sitios-estaticos-con-jekyll-y-github-pages)." *Progamming Historian* 5
 
-In Class: 
+En clase: 
 * GitHub, GitHub Pages
 * Vuestro Portfolio 
   
