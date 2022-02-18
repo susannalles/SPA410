@@ -10,11 +10,13 @@ title: "Programa - Fall 2021"
 * ¿Qué sabemos sobre tecnología y humanidades?
 * ¿Por qué pueden ser útiles las humanidades digitales y el estudio del español?
 
+# Introducción: Humanidades Digitales 
+
 ## Clase 2. Miércoles, 25 agosto
 
 Antes de clase:
-* Leer: Dossier & Drucker 2014, p. 9 "[Introduction to Digital Humanities](https://searchworks.stanford.edu/view/11649226)"
-* Lee con atención estos dos blogs, uno está en inglés y otro es una especie de traducción pero con proyectos en español:
+* Leer Dossier & Drucker 2014, p. 9 "[Introduction to Digital Humanities](https://searchworks.stanford.edu/view/11649226)"
+* Leer con atención estos dos blogs, uno está en inglés y otro es una especie de traducción pero con proyectos en español:
  1. Miriam Posner (2013). “[How did they make that?](http://miriamposner.com/blog/how-did-they-make-that/)”
  2. Silvia Guitiérrez (2016). “[Cómo lo hicieron? Herramientas para las Humanidades Digitales Herramientas para las Humanidades Digitales”](https://silviaegt.wordpress.com/2016/10/05/como-lo-hicieron/)”         
 
@@ -36,29 +38,31 @@ En clase:
 * Tipos de proyectos en HD
 * Presentaciones y proyectos escogidos 
 
-[Presentación 1 de un proyecto HD](https://susannalles.github.io/SPA410/ejercicios/Presentacion-1.html)
+[Presentación 1 de un proyecto HD](https://susannalles.github.io/SPA410/ejercicios/presentacion-1.html)
+
+# Parte I: Los datos en humanidades
 
 ## Clase 4. Miércoles, 1 septiembre
 
 Antes de clase: 
-* Leer, anotar en hypothes.is:  
-* Michel Foucault, “Introducciónn,” *Las palabras y las cosas* pág. 1-10 (1966)
-* Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
+* Leer y anotar en hypothes.is:  
+ 1. Michel Foucault, “Introducciónn,” *Las palabras y las cosas* pág. 1-10 (1966)
+ 2. Jorge Luis Borges, “[El idioma analítico de John Wilkins](http://aracnologia.macn.gov.ar/st/biblio/Borges%201952%20El%20idioma%20analitico%20de%20John%20Wilkins.pdf)” (1952) (4 pág.)
 * Responder preguntas del dossier 
 
 En clase: 
 * Comentario sobre las lecturas (Foucault, Borges)
 * Clasificación de sistemas y lenguajes de marcados (HTML)
-* Los textos como dtos 
+* Los textos como datos 
 
-**Monday, September 6: Labor Day**
+**Lunes, 6 septiembre: Labor Day**
 
 ## Clase 5. Miércoles, 8 Septiembre 
 
 Antes de clase:
 * Leer Dossier & Drucker 2014, p. 15-17 (Takeaways en p. 18) 
 * Tutorial 1: William J. Turkel y Adam Crymble (2017). “[Para entender páginas web y HTML](https://programminghistorian.org/es/lecciones/ver-archivos-html).” *Programming Historian en español* 1
-* Tutorial 2 HTML [W3Schools](https://www.w3schools.com/html/default.asp) De [HOME](https://www.w3schools.com/html/default.asp) hasta [LISTS](https://www.w3schools.com/html/html_lists.asp)   
+* Tutorial 2 HTML [W3Schools](https://www.w3schools.com/html/default.asp). De [HOME](https://www.w3schools.com/html/default.asp) hasta [LISTS](https://www.w3schools.com/html/html_lists.asp)   
 * Tarea 1: Creación de vuestra primera página web (resultado tutorial 2)
 
 En clase: 
@@ -80,8 +84,8 @@ En clase:
 ## Clase 7. Miércoles, septiembre 15
 
 Antes de clase: 
-* Leed y anotad el texto de Drucker 2014, pp. 24-27 "3A. Ontologies and Metadata Standards" 
-* Familiarizaros con la nueva estructura de archivos que hay en vuestro repositorio de GitHub
+* Leer y anotar el texto de Drucker 2014, pp. 24-27 "3A. Ontologies and Metadata Standards" 
+* Familiarizarse con la nueva estructura de archivos de vuestros repositorios de GitHub
 
 En clase: 
 * Funcionamiento de vuestro repositorio en GitHub
@@ -111,13 +115,15 @@ En clase:
 * Invitado especial: [Elliot Williams](https://elliotdwilliams.com/about-elliot/) que nos hablará de los metadatos utilizados por UM en sus catálogos y repositorios. Habrá un ejercicio práctico (Tarea digital / Digital assignment 3).
 
 [Tarea 3: un ejemplo comentado de Dublin Core](https://susannalles.github.io/SPA410/ejercicios/tarea-3.html)
-   
+
+# Parte II: Explorando el Pasado 
+
 ## Clase 10. Lunes, 27 septiembre
 
 Antes de clase: 
 * Leer y comentar en hypothes.is: Allés Torrent, Susanna. (2019). Introducción a la Text Encoding Initiative. Definición, aplicaciones prácticas y recursos. Zenodo. <https://doi.org/10.5281/zenodo.4430863> Este capítulo forma parte del tutorial en línea: [Introducción a la TEI](https://tthub.io/aprende/introduccion-a-tei/). Prestad atención a los ejemplos y exploradlos.
-* Leed también este pequeño texto: Can humanities undergrads learn to code?
-* Explorad estos proyectos con alumnos undergrad: [Anna Julia Cooper. Responses to the Survey of Negro College Graduates](https://alicer98.github.io/DIGIT-110-AJC-Survey/index.html) y [Cartas a la familia](https://familyletters.unl.edu/)
+* Leer este pequeño texto: [Can humanities undergrads learn to code?](http://dh.obdurodon.org/nitle.xhtml)
+* Explorar estos proyectos con alumnos undergrad: [Anna Julia Cooper. Responses to the Survey of Negro College Graduates](https://alicer98.github.io/DIGIT-110-AJC-Survey/index.html) y [Cartas a la familia](https://familyletters.unl.edu/)
 
 En clase: 
 * ¿Qué es una edición digital?
@@ -140,8 +146,9 @@ En clase:
 ## Clase 12. Lunes, 4 octubre
 
 Antes de clase:
-* Leer y comentar en Hypothesis la Lección 2 sobre Text Encoding Initiative "El lenguaje XML y algunos conceptos generales"
-* Hacer el ejercicio 1: https://tthub-repo.github.io/ejercicios/2.Creacion-doc-xml Podéis elegir cualquier poema y si no encontráis ninguna, os propongo este de Francisco de Quevedo:
+* Leer y comentar en Hypothesis la Lección 2 sobre Text Encoding Initiative "[El lenguaje XML y algunos conceptos generales](https://zenodo.org/record/4445737#.YhApgt9OmX1)"
+* Hacer el ejercicio 1: [Creación de un documento XML](https://tthub-repo.github.io/ejercicios/2.Creacion-doc-xml). Podéis elegir cualquier poema y si no encontráis ninguna, os propongo este de Francisco de Quevedo:
+
 Es hielo abrasador, es fuego helado,\
 es herida que duele y no se siente,\
 es un soñado bien, un mal presente,\
@@ -158,7 +165,7 @@ Este es el niño Amor, este es su abismo.\
 el que en todo es contrario de sí mismo!\
 
 En clase:
-* Escucharemos vuestras presentaciones orales sobre un proyecto de edición digital
+* Escucharemos vuestras presentaciones orales sobre un proyecto de edición digital.
 * Resolveremos dudas sobre el lenguaje XML, las guías directrices de la TEI, y sobre el ejercicio.
 
 [Presentación 2: Elección de un proyecto de edición digital, análisis y presentación en clase](https://susannalles.github.io/SPA410/ejercicios/presentacion-2.html)
@@ -177,9 +184,8 @@ En clase:
 ## Clase 14. Lunes, 11 octubre
 
 Antes de clase: 
-https://www.youtube.com/watch?v=libZ2MV_CRI
-* Leed en diagonal (skim it) la siguiente unidad del proyecto TTHUB: en la web https://tthub.io/aprende/l4-guias/ o en pdf https://zenodo.org/record/4554709#.YV3kP6ApBz8 (Solo la “Introducción”)
-* Leer con atención la sección de "Prosa" o  bien en la web https://tthub.io/aprende/l5-tipologias/  o en el pdf https://zenodo.org/record/4555173#.YV3kBaApBz8 (el resto, "Poesía, drama, etc." es optativo, aunque os recomiendo la lectura también). :)
+* Leed en diagonal (skim it) la siguiente unidad del proyecto TTHUB: en la [web](https://tthub.io/aprende/l4-guias/) o en [pdf](https://zenodo.org/record/4554709#.YV3kP6ApBz8) (Solo la “Introducción”)
+* Leer con atención la sección de "Prosa" o  bien en la [web](https://tthub.io/aprende/l5-tipologias/)  o en el [pdf](https://zenodo.org/record/4555173#.YV3kBaApBz8) (el resto, "Poesía, drama, etc." es optativo, aunque os recomiendo la lectura también).
 * Descargad el archivo con el [texto de Leonor en texto plano](https://github.com/susannalles/SPA410/blob/main/Leonor/Leonor.txt) (.txt) e intentad hacer lo siguiente:
  1. Intenta crear un documento XML-TEI e incluir el texto de Leono. ¿Al interior de qué elemento debería ir situado?
  2. ¿Qué elementos estructurales tiene el texto? ¿Qué etiquetas o elementos TEI podríamos utilizar para marcarlos?
@@ -194,7 +200,8 @@ En clase:
 ## Clase 15. Miércoles, 13 octubre
 
 Antes de clase:
-* Preparar una breve presentación sobre cómo podríamos hacer una edición digital de Leonor López de Córdoba:
+* Ver este video sobre Leonor: <https://www.youtube.com/watch?v=libZ2MV_CRI> 
+* Preparar una breve presentación (3) sobre cómo podríamos hacer una edición digital de Leonor López de Córdoba:
  1. ¿Qué apartados podría tener?
  2. ¿Qué funcionalidades?
  3. ¿Qué elementos multimedia?
@@ -204,8 +211,6 @@ Antes de clase:
 En clase:
 * Presentaciones estudiantes
 * Solución y discusión de la codificación del texto de Leonor
-
-[Presentación 3: Propuesta para publicar el texto de Leonor]
 
 ## Clase 16. Lunes, 18 octubre
 
@@ -237,28 +242,30 @@ Antes de clase:
 * Acabar el mapa siguiendo los pasos de la Tarea 5
 
 En clase:
-* Revisaremos cuestiones sobre codificación y solucionaremos problemas del mapa.
+* Revisión de cuestiones sobre codificación y solución de problemas del mapa.
 
 [Ensayo 2: Una propuesta para una edición de las Memorias](https://susannalles.github.io/SPA410/ejercicios/ensayo-2.html)
 
 ## Clase 19. Miércoles, 27 Octubre
 
 Antes de clase:
-* Colgar en vuestro repositorio la [https://susannalles.github.io/SPA410/ejercicios/tarea-5.html] 
+* Colgar en vuestro repositorio la [Tarea 5](https://susannalles.github.io/SPA410/ejercicios/tarea-5.html) 
 
 En clase:
 * Revisión de dudas y finalización de la codificación y la transformación.
 
 
+# Parte III: Explorando el Presente 
+
 ## Clase 20. Lunes, 1 noviembre
 
 Antes de clase:
 * Lee esta breve intro para la "Clase 20: Métodos de análisis"
-* Seguir el tutorial del Programming Historian: Heather Froehlich (2018). "Análisis de corpus con AntConc." *Programming Historian en español* 2
-* Explorar el proyecto Narrativas digitales de la COVID19 https://covid.dh.miami.edu/
+* Seguir el tutorial del Programming Historian: Heather Froehlich (2018). "[Análisis de corpus con AntConc](https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc)." *Programming Historian en español* 2
+* Explorar el proyecto Narrativas digitales de la COVID19 <https://covid.dh.miami.edu/>
  1. ¿Os gustaría centraros en un país en concreto (México, Argentina, Colombia, España, Ecuador, Perú, o Florida) y ver sobre lo que los usuarios de Twitter han hablado?
  2. ¿Qué temas pensáis que pueden ser interesantes sobre la pandemia?
-* Intentad crear un corpus que responda a vuestros intereses: https://covid.dh.miami.edu/get/ o bien trabajad con este archivo dhcovid_texts_month-2020-04_es_es.txt
+* Intentad crear un corpus que responda a vuestros intereses: <https://covid.dh.miami.edu/get/> o bien trabajad con este archivo dhcovid_texts_month-2020-04_es_es.txt
 
 En clase:
 * Discusuón sobre vuestros intereses y sobre los temas que pueden surgir al explorar un corpus de Twitter. Cada uno de vosotros deberá elegir un corpus, descargarlo y practicar con AntConc.
@@ -279,7 +286,7 @@ En clase:
 Antes de clase:
 * Debéis realizar el tutorial que trata sobre una herramienta que se llama Voyant: Silvia Gutiérrez De la Torre (2019). "[Análisis de corpus con Voyant Tools](https://doi.org/10.46430/phes0043)." *Programming Historian* 3
 * Responder a las preguntas del dossier: Clase22_Voyant.pdf 
-* Revisar la lista de stopwords o palabras vacías: https://github.com/dh-miami/narratives_covid19/blob/master/scripts/stopwords/stopwords_es.txt 
+* Revisar la lista de stopwords o palabras vacías: <https://github.com/dh-miami/narratives_covid19/blob/master/scripts/stopwords/stopwords_es.txt> 
 
 En clase:
 * Hablaremos de las preguntas planteadas por Gutiérrez De la Torre en el tutorial y trabajaremos con vuestros corpus y Voyant.
@@ -290,7 +297,7 @@ Antes de clase:
 * Lectura del texto: Sinclair & Rockwell 2016. “Text Analysis and Visualization: Making Meaning Count.” In *A New Companion to Digital Humanities*, pp. 274-290 s
 * Contestar las preguntas del dossier a propósito del artículo de Sinclair y Rockwell: Clase23_Voyant.pdf 
 * Debéis elegir dos lecturas que sean pertinentes para el tema sobre el que queréis escribir: 
-  1. Una de ellas debe tratar sobre Twitter y el análisis de los datos y debe estar en esta lista de Zotero: https://www.zotero.org/groups/2475685/digital_narratives_of_covid-19/library 
+  1. Una de ellas debe tratar sobre Twitter y el análisis de los datos y debe estar en esta lista de Zotero: <https://www.zotero.org/groups/2475685/digital_narratives_of_covid-19/library>
   2. La otra lectura puede proceder de un periódico o otra fuente y debe estar estrechamente relacionada con vuestro tema.
   3. Tenéis que mandarme los links antes de la clase del miércoles a las 3:30pm.
 
@@ -317,16 +324,16 @@ En clase:
 
 * Recapitulación y solución de probles 
 
-Thanksgiving November 18 - 28
+**Thanksgiving November 18 - 28**
 
 ## Clase 26. Lunes, 29 noviembre
 
 Antes de clase:
-* Revisad todo el material que hemos realizado en las clases 24 y 25
+* Revisad todo el material que hemos realizado en las clases 20 a 25
 * Tener listo un esquema (outline) de vuestro trabajo final (versión escrita).
 
 En clase:
-* Discutiremos y trabajaremos en vuestros trabajos rellenando la plantilla (Blackboard)
+* Discutiremos y trabajaremos en vuestros trabajos rellenando la rubrica (Blackboard)
 
 ## Clase 27. Miércoles, 1 diciembre
 
@@ -353,5 +360,5 @@ En clase:
 * Presentaciones del Portfolio final 
 * Despedida 
 
-**11 diciembre**
+**11 diciembre:**
 Entrega de la versión final del Portfolio
