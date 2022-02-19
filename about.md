@@ -18,8 +18,8 @@ This course will be in person. Every day you will have one or two readings (apro
 - 5% - Attendance - Come to class! (see Policy)
 - 20% - Participation - Do the readings, prepare your answers, discuss them in class, engage in debates, give feedback AND do the hands-on tutorial and exercises
 - 20% - 4 Essays (min. 750 words) - The essays are delivered via Google Drive. The instructor gives you feedback and corrections, and the final grade is given upon correction of the essay. If you don’t do the corrections, you get the original grade which is always less.
-- 20% - Digital Assignments - When you have a hands-on tutorial to complete, you will normally deliver the outcome as the digital assignment.
-- 15% - Oral Presentations - Templates and specific rubrics will be given and you will use an slide show
+- 20% - 6 Digital Assignments - When you have a hands-on tutorial to complete, you will normally deliver the outcome as the digital assignment.
+- 15% - 4 Oral Presentations - Templates and specific rubrics will be given and you will use an slide show
 - 20% - Digital Portfolio - The portfolio serves to document your work, to reflect on the topics we have seen in class, and to showcase your outcomes.
 
 **Deadlines**:
