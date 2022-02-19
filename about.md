@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policies
+title: About the course
 ---
 
 ## How it works?
